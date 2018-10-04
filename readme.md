@@ -1,4 +1,4 @@
-#Unet with Squeeze and Excite block For Sattelite Image Segmenatation
+# Unet with Squeeze and Excite block For Sattelite Image Segmenatation
 
 These notebooks are meant to run on google colab gpu runtime
 along with google drive api.
